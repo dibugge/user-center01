@@ -1,0 +1,10 @@
+spring:
+
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://43.138.220.202:3306/user-center?useSSL=false
+    username: dogyupi
+    password: yupi666
+  mvc:
+      pathmatch:
+        matching-strategy: ANT_PATH_MATCHER
