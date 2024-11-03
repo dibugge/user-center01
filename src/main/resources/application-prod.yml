@@ -2,7 +2,7 @@ spring:
 
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://43.138.220.202:3306/user-center?useSSL=false
+    url: jdbc:mysql://.....:3306/user-center?useSSL=false
     username: dogyupi
     password: yupi666
   mvc:
